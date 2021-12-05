@@ -104,3 +104,13 @@
 .titulo {
     color: rgb(189, 0, 0);
 }
+
+.ops {
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.of {
+    font-family: "cursive";
+}
